@@ -16,8 +16,6 @@ This Ruby on Rails, which is an API-only application that provides a back-end ap
 
 You can access a preview of the API at [this enpoint](https://shielded-waters-51364.herokuapp.com/api/v1/random-greeting).
 
-You can preview the front-end app [here](https://goofy-wright-403bb0.netlify.app/).
-
 ## Getting Started
 
 To get a local copy up and running, follow these steps.
@@ -31,7 +29,7 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-1. Download or [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) the contents from this repository.
+1. Download or [clone](https://github.com/errea/Rails-back-end-HelloApp.git) the contents from this repository.
   
 2. Go to the project's root directory:
 ``` bash
