@@ -6,7 +6,7 @@
 
 ## About
 
-This Ruby on Rails, API-only, back-end app is consumed by the React front-end app from [this repo](https://github.com/Jmagero/hello-react-front-end).
+This Ruby on Rails, which is an API-only application that provides a back-end app which is to be consumed by the React front-end app from [this repo](https://github.com/errea/React-frontend-HelloApp).
 
 ## Built With
 
@@ -60,11 +60,11 @@ rails server
 
 ## Authors
 
-👨‍💻 **Jocyline Magero**
+👤 **Eri**
 
-- Github: [@jmagero](https://github.com/Jmagero)
-- Twitter: [@MagzCelyn](https://twitter.com/MagzCelyn)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@errea](https://github.com/errea)
+- Twitter: [@Erreakay](https://github.com/errea)
+- Linkedin: [Eri Okereafor](https://www.linkedin.com/in/eri-ngozi-okereafor/)
 
 ## Contributing
 
